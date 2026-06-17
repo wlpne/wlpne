@@ -17,9 +17,9 @@
 
 ## 🎮 Favorite Games:
 
-**[Red Dead Redemption 2]()**
+**[Red Dead Redemption 2](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)**
 
-**[Detroit: Become Human]()**
+**[Detroit: Become Human](https://store.steampowered.com/app/1222140/Detroit_Become_Human/)**
 
 
 ## GitHub Stats
