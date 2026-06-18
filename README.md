@@ -8,7 +8,7 @@
 
 # 👋 Hey There!
 
-**My name is Ilya, I'm a beginner designer 🖌️ and a former developer 💻**
+**My name is Ilya, I'm a beginner designer 🖌️ and a developer 💻**
 
 ## 🧒 Pronouns:
 
